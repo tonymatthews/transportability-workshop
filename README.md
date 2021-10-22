@@ -7,8 +7,5 @@ Content: Methods used for generalizing and transporting treatment effects from R
 
 Target group: This workshop is of relevance to doctoral students and postdoctoral students, as well as Master students and junior and senior researchers, interested in expanding their epidemiological study design and analysis toolkit. The workshop may be of particular interest to individuals seeking additional training in the application of causal inference methods, pharmacoepidemiology, and comparative effectiveness research. It is recommended to have at least intermediate level knowledge in epidemiology and biostatistics, and familiarity with statistical programming in R or SAS.
 
-Instructors
-Anthony Matthews, PhD, Postdoctoral Researcher, Institute of Environmental Medicine, Karolinska Institutet (anthony.matthews@ki.se)
-Jennifer L. Lund, PhD, Associate Professor, Dept. of Epidemiology, University of North Carolina at Chapel Hill (jennifer.lund@unc.edu)
-Michael Webster-Clark, PharmD, PhD, Postdoctoral Fellow, McGill University (mawc@live.unc.edu) 
+Instructors: Anthony Matthews (anthony.matthews@ki.se), Jennifer L. Lund (jennifer.lund@unc.edu), Michael Webster-Clark (mawc@live.unc.edu).
 
